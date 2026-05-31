@@ -26,15 +26,15 @@ sections:
 
 ## Файлы
 
-- [[./SolidarTrading. Вечная схема заработка..pdf|SolidarTrading. Вечная схема заработка..pdf]] - первая версия, 2025-12-03.
-- [[./Solidar Trading. Вечная схема заработка..pdf|Solidar Trading. Вечная схема заработка..pdf]] - вторая версия, 2025-12-22.
-- [[./SolidarTrading. Вечная схема заработка 2.pdf|SolidarTrading. Вечная схема заработка 2.pdf]] - поздняя версия ранней упаковки, 2026-04-27.
+- [SolidarTrading. Вечная схема заработка..pdf](./SolidarTrading.%20%D0%92%D0%B5%D1%87%D0%BD%D0%B0%D1%8F%20%D1%81%D1%85%D0%B5%D0%BC%D0%B0%20%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0..pdf) - первая версия, 2025-12-03.
+- [Solidar Trading. Вечная схема заработка..pdf](./Solidar%20Trading.%20%D0%92%D0%B5%D1%87%D0%BD%D0%B0%D1%8F%20%D1%81%D1%85%D0%B5%D0%BC%D0%B0%20%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0..pdf) - вторая версия, 2025-12-22.
+- [SolidarTrading. Вечная схема заработка 2.pdf](./SolidarTrading.%20%D0%92%D0%B5%D1%87%D0%BD%D0%B0%D1%8F%20%D1%81%D1%85%D0%B5%D0%BC%D0%B0%20%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%202.pdf) - поздняя версия ранней упаковки, 2026-04-27.
 
 ## Связанное видео
 
-- [[../Видео/SolidarTrading - система заработка на века - первая презентация проекта|SolidarTrading - система заработка на века - первая презентация проекта]]
+- [SolidarTrading - система заработка на века - первая презентация проекта](../%D0%92%D0%B8%D0%B4%D0%B5%D0%BE/SolidarTrading%20-%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%20%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%B2%D0%B5%D0%BA%D0%B0%20-%20%D0%BF%D0%B5%D1%80%D0%B2%D0%B0%D1%8F%20%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0.md)
   Видео-презентация по первой PDF-линии: [YouTube](https://youtu.be/4CXua0z-Nn4).
-- [[../Видео/SolidarTrading - секрет лучшей схемы|SolidarTrading - секрет лучшей схемы]]
+- [SolidarTrading - секрет лучшей схемы](../%D0%92%D0%B8%D0%B4%D0%B5%D0%BE/SolidarTrading%20-%20%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%20%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B9%20%D1%81%D1%85%D0%B5%D0%BC%D1%8B.md)
   Раннее объясняющее видео про партнерку от оборота и эксклюзивную 10-уровневую схему SolidarTrading: [YouTube](https://youtu.be/mGPQdaBNpLo).
 
 ## Что внутри полезного
@@ -64,10 +64,10 @@ sections:
 
 ## Связанные знания
 
-- [[../../Оффер/SolidarTrading - эволюция оффера|SolidarTrading - эволюция оффера]]
-- [[./SolidarTrading - вечная схема заработка - История версий|SolidarTrading - вечная схема заработка - История версий]]
-- [[../../Контент/SolidarTrading - банк сильных формулировок|SolidarTrading - банк сильных формулировок]]
-- [[../../Риски и ограничения/SolidarTrading - рискованные обещания в презентации|SolidarTrading - рискованные обещания в презентации]]
+- [SolidarTrading - эволюция оффера](../../%D0%9E%D1%84%D1%84%D0%B5%D1%80/SolidarTrading%20-%20%D1%8D%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D1%8F%20%D0%BE%D1%84%D1%84%D0%B5%D1%80%D0%B0.md)
+- [SolidarTrading - вечная схема заработка - История версий](./SolidarTrading%20-%20%D0%B2%D0%B5%D1%87%D0%BD%D0%B0%D1%8F%20%D1%81%D1%85%D0%B5%D0%BC%D0%B0%20%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20-%20%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B9.md)
+- [SolidarTrading - банк сильных формулировок](../../%D0%9A%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82/SolidarTrading%20-%20%D0%B1%D0%B0%D0%BD%D0%BA%20%D1%81%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%BA.md)
+- [SolidarTrading - рискованные обещания в презентации](../../%D0%A0%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%20%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D1%8F/SolidarTrading%20-%20%D1%80%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%89%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B2%20%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8.md)
 
 ## Статус
 
