@@ -53,11 +53,11 @@ URL ролика: https://www.youtube.com/watch?v=DLgNpW9SBeI.
 
 ## Какие знания созданы или обновлены
 
-- [[../../Метод/SolidarTrading - долгосрочный метод заработка|SolidarTrading - долгосрочный метод заработка]]
-- [[../../Возражения/Почему SolidarTrading начал с Forex а не с крипты|Почему SolidarTrading начал с Forex а не с крипты]]
-- [[../../Партнерка/SolidarTrading - доход от оборота|SolidarTrading - доход от оборота]]
-- [[../../Контент/SolidarTrading - банк сильных формулировок|SolidarTrading - банк сильных формулировок]]
-- [[../../Риски и ограничения/SolidarTrading - рискованные обещания в презентации|SolidarTrading - рискованные обещания в презентации]]
+- [SolidarTrading - долгосрочный метод заработка](../../%D0%9C%D0%B5%D1%82%D0%BE%D0%B4/SolidarTrading%20-%20%D0%B4%D0%BE%D0%BB%D0%B3%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%20%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0.md)
+- [Почему SolidarTrading начал с Forex а не с крипты](../../%D0%92%D0%BE%D0%B7%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%9F%D0%BE%D1%87%D0%B5%D0%BC%D1%83%20SolidarTrading%20%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%20%D1%81%20Forex%20%D0%B0%20%D0%BD%D0%B5%20%D1%81%20%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D1%8B.md)
+- [SolidarTrading - доход от оборота](../../%D0%9F%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D0%BA%D0%B0/SolidarTrading%20-%20%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%20%D0%BE%D1%82%20%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D1%82%D0%B0.md)
+- [SolidarTrading - банк сильных формулировок](../../%D0%9A%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82/SolidarTrading%20-%20%D0%B1%D0%B0%D0%BD%D0%BA%20%D1%81%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%BA.md)
+- [SolidarTrading - рискованные обещания в презентации](../../%D0%A0%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%20%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D1%8F/SolidarTrading%20-%20%D1%80%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%89%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B2%20%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8.md)
 
 ## Что важно не перепутать
 
@@ -72,4 +72,4 @@ URL ролика: https://www.youtube.com/watch?v=DLgNpW9SBeI.
 
 - Видео: https://www.youtube.com/watch?v=DLgNpW9SBeI.
 - Raw-выжимка: `video_raw_solidar_first_week_v1.md`.
-- Связанное объясняющее видео: [[./SolidarTrading - разбираем по винтикам|SolidarTrading - разбираем по винтикам]].
+- Связанное объясняющее видео: [SolidarTrading - разбираем по винтикам](./SolidarTrading%20-%20%D1%80%D0%B0%D0%B7%D0%B1%D0%B8%D1%80%D0%B0%D0%B5%D0%BC%20%D0%BF%D0%BE%20%D0%B2%D0%B8%D0%BD%D1%82%D0%B8%D0%BA%D0%B0%D0%BC.md).
