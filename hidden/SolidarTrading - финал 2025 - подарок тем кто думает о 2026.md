@@ -1,0 +1,65 @@
+---
+type: material
+created: 2026-05-28
+source: video_raw_solidartrading_v1_8week_newyear.md; user-provided URL 2026-05-28
+material_type: video
+material_url: https://youtu.be/eIwMBwHdsM4
+material_file:
+material_date:
+applies_to:
+  - SolidarTrading
+  - Titan Atlas
+  - first version
+  - early testing stage
+sections:
+  - video
+  - early report
+  - year-end report
+  - partner model
+  - technical incident
+---
+
+# SolidarTrading - финал 2025 - подарок тем кто думает о 2026
+
+## Что это
+
+Ранний новогодний отчет первой версии SolidarTrading, 8 неделя.
+
+Оригинальное название: `🤖🎄🎁 SolidarTrading - Финал 2025 Подарок тем, кто думает о 2026.`
+
+URL: https://youtu.be/eIwMBwHdsM4.
+
+Это исторический материал раннего периода теста. Он полезен для истории проекта, продажной упаковки и базы вопросов, но не является текущим оффером.
+
+## Что внутри полезного
+
+- Итоги раннего запуска: около `10%` в ноябре и около `50%` в декабре как заявления автора.
+- Обезличенный кейс участника: около `187-200%` за декабрь с учетом сложного процента.
+- Titan Atlas описан как версия `10.8`, один из `6` роботов, после примерно `10 месяцев` разработки.
+- Сложный процент снова подается как механизм роста дохода и запаса прочности счета.
+- Солидарные десятки объясняются как партнерская механика для участников, которые не хотят активно приглашать.
+- План Q1 2026: новые роботы, улучшение Atlas, лидеры, проп-компании.
+- Технический кейс 31 декабря: сервер отключился, робот продолжил работу после включения и восстановления состояния.
+
+## Какие вопросы закрывает
+
+- Что показывали ранние отчеты первой версии?
+- Почему старые `50%`, `120%`, `187-200%` и `270%` нельзя использовать как текущий оффер?
+- Что такое солидарные десятки?
+- Может ли робот восстановиться после технического сбоя?
+- Как говорить про сложный процент без обещания гарантированной доходности?
+
+## Какие знания созданы или обновлены
+
+- [SolidarTrading - первая версия - первые отчеты](undefinedhidden/SolidarTrading%20-%20%D0%BF%D0%B5%D1%80%D0%B2%D0%B0%D1%8F%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%20-%20%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B5%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%D1%8B.md)
+- [SolidarTrading - сложный процент и автодолив](undefinedhidden/SolidarTrading%20-%20%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D0%BD%D1%82%20%D0%B8%20%D0%B0%D0%B2%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%B8%D0%B2.md)
+- [SolidarTrading - солидарные десятки](undefinedhidden/SolidarTrading%20-%20%D1%81%D0%BE%D0%BB%D0%B8%D0%B4%D0%B0%D1%80%D0%BD%D1%8B%D0%B5%20%D0%B4%D0%B5%D1%81%D1%8F%D1%82%D0%BA%D0%B8.md)
+- [SolidarTrading - партнерский R-робот](undefinedhidden/SolidarTrading%20-%20%D0%BF%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20R-%D1%80%D0%BE%D0%B1%D0%BE%D1%82.md)
+- [SolidarTrading - рискованные обещания в презентации](undefinedhidden/SolidarTrading%20-%20%D1%80%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%89%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B2%20%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8.md)
+- [SolidarTrading - банк сильных формулировок](undefinedhidden/SolidarTrading%20-%20%D0%B1%D0%B0%D0%BD%D0%BA%20%D1%81%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%BA.md)
+
+## Связанные материалы
+
+- [SolidarTrading - роботы готовят подарок 50 процентов прибыли под Новый год](undefinedhidden/SolidarTrading%20-%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D1%8B%20%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D1%8F%D1%82%20%D0%BF%D0%BE%D0%B4%D0%B0%D1%80%D0%BE%D0%BA%2050%20%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%BF%D1%80%D0%B8%D0%B1%D1%8B%D0%BB%D0%B8%20%D0%BF%D0%BE%D0%B4%20%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%B3%D0%BE%D0%B4.md)
+- [SolidarTrading - секрет заработка с ИИ в 2026 году](undefinedhidden/SolidarTrading%20-%20%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%20%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D1%81%20%D0%98%D0%98%20%D0%B2%202026%20%D0%B3%D0%BE%D0%B4%D1%83.md)
+- [SolidarTrading - роботы превращают 50 процентов в 3504 процента в месяц](undefinedhidden/SolidarTrading%20-%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D1%8B%20%D0%BF%D1%80%D0%B5%D0%B2%D1%80%D0%B0%D1%89%D0%B0%D1%8E%D1%82%2050%20%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%B2%203504%20%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D0%BD%D1%82%D0%B0%20%D0%B2%20%D0%BC%D0%B5%D1%81%D1%8F%D1%86.md)
