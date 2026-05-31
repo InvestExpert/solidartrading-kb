@@ -1,0 +1,5 @@
+optional_front_matter:
+  remove_originals: true
+
+relative_links:
+  enabled: true
