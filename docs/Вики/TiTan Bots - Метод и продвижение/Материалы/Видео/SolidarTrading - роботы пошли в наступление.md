@@ -75,3 +75,4 @@ URL ролика: https://youtu.be/q-xAexBduzM.
 - Raw-выжимка этого URL: `video_raw_robots_attack.md`.
 - Полная транскрибация предоставлена пользователем в чате 2026-05-27.
 - Следующее отдельное видео по второй неделе: [SolidarTrading - роботы не подвели](./SolidarTrading%20-%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D1%8B%20%D0%BD%D0%B5%20%D0%BF%D0%BE%D0%B4%D0%B2%D0%B5%D0%BB%D0%B8.md).
+

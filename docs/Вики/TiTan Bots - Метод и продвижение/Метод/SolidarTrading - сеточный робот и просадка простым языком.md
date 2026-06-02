@@ -1,7 +1,8 @@
 ---
 type: knowledge
+status: active
 created: 2026-05-27
-source: https://youtu.be/JTQd_sfdD6U; video_raw_perviy_shag_12_v_mesyac.md; https://youtu.be/oD7a2-AWG9M; https://youtu.be/n7_kMo5e-oY; https://youtu.be/K6b2bHKkEpA; https://youtu.be/1lLrhhKQM6Y; https://youtu.be/NHZAJRXmDNk
+source: https://youtu.be/JTQd_sfdD6U; video_raw_perviy_shag_12_v_mesyac.md; https://youtu.be/oD7a2-AWG9M; https://youtu.be/n7_kMo5e-oY; https://youtu.be/K6b2bHKkEpA; https://youtu.be/1lLrhhKQM6Y; https://youtu.be/NHZAJRXmDNk; manual_raw_solidartrading_03_account_broker_money_withdrawal_full_2026-06-01.md
 applies_to:
   - SolidarTrading
   - TiTan ATLAS
@@ -13,6 +14,24 @@ sections:
 ---
 
 # SolidarTrading - сеточный робот и просадка простым языком
+
+## На какие вопросы отвечает
+
+- [Плечо 1 к 2000 это опасно?](../FAQ/03_%D0%A1%D1%87%D0%B5%D1%82%20%D0%B1%D1%80%D0%BE%D0%BA%D0%B5%D1%80%20%D0%B4%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8%20%D0%B8%20%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4.md#Плечо%201%20к%202000%20это%20опасно?)
+- [Какие риски?](../FAQ/05_%D0%A0%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0%20%D0%B8%20%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D1%81%D0%B1%D0%BE%D0%B8.md#Какие%20риски?)
+- [Что если сервер отключится?](../FAQ/05_%D0%A0%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0%20%D0%B8%20%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D1%81%D0%B1%D0%BE%D0%B8.md#Что%20если%20сервер%20отключится?)
+- [Что такое безопасный режим?](../FAQ/05_%D0%A0%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0%20%D0%B8%20%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D1%81%D0%B1%D0%BE%D0%B8.md#Что%20такое%20безопасный%20режим?)
+- [Что такое сложный процент и запас прочности счета?](../FAQ/05_%D0%A0%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0%20%D0%B8%20%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D1%81%D0%B1%D0%BE%D0%B8.md#Что%20такое%20сложный%20процент%20и%20запас%20прочности%20счета?)
+- [Почему робот не продается напрямую?](../FAQ/06_%D0%A0%D0%BE%D0%B1%D0%BE%D1%82%D1%8B%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D1%80%D0%B5%D0%B9%D0%B4%D0%B8%D0%BD%D0%B3%20%D0%B8%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4.md#Почему%20робот%20не%20продается%20напрямую?)
+- [Почему флет полезен сеточному роботу?](../FAQ/06_%D0%A0%D0%BE%D0%B1%D0%BE%D1%82%D1%8B%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D1%80%D0%B5%D0%B9%D0%B4%D0%B8%D0%BD%D0%B3%20%D0%B8%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4.md#Почему%20флет%20полезен%20сеточному%20роботу?)
+- [Это скальпинг?](../FAQ/06_%D0%A0%D0%BE%D0%B1%D0%BE%D1%82%D1%8B%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D1%80%D0%B5%D0%B9%D0%B4%D0%B8%D0%BD%D0%B3%20%D0%B8%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4.md#Это%20скальпинг?)
+
+## Связанный FAQ-хаб
+
+- [03_Счет брокер деньги и вывод](../FAQ/03_%D0%A1%D1%87%D0%B5%D1%82%20%D0%B1%D1%80%D0%BE%D0%BA%D0%B5%D1%80%20%D0%B4%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8%20%D0%B8%20%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4.md)
+- [05_Риски защита и технические сбои](../FAQ/05_%D0%A0%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0%20%D0%B8%20%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D1%81%D0%B1%D0%BE%D0%B8.md)
+- [06_Роботы копитрейдинг и метод](../FAQ/06_%D0%A0%D0%BE%D0%B1%D0%BE%D1%82%D1%8B%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D1%80%D0%B5%D0%B9%D0%B4%D0%B8%D0%BD%D0%B3%20%D0%B8%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4.md)
+
 
 ## Короткий ответ
 
@@ -154,3 +173,4 @@ sections:
 - [SolidarTrading - сложный процент и автодолив](./SolidarTrading%20-%20%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D0%BD%D1%82%20%D0%B8%20%D0%B0%D0%B2%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%B8%D0%B2.md)
 - [SolidarTrading - 12-118 процентов в месяц и гарантия дохода](../%D0%92%D0%BE%D0%B7%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/SolidarTrading%20-%2012-118%20%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%B2%20%D0%BC%D0%B5%D1%81%D1%8F%D1%86%20%D0%B8%20%D0%B3%D0%B0%D1%80%D0%B0%D0%BD%D1%82%D0%B8%D1%8F%20%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0.md)
 - [SolidarTrading - ранний тестовый этап и переход к обновленному методу](../%D0%A0%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%20%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D1%8F/SolidarTrading%20-%20%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%B9%20%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B9%20%D1%8D%D1%82%D0%B0%D0%BF%20%D0%B8%20%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4%20%D0%BA%20%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%BC%D1%83%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%83.md)
+

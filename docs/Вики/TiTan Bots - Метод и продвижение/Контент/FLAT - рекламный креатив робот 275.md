@@ -18,7 +18,7 @@ review:
 
 ## Суть
 
-Рекламный креатив для [TiTan Hyperion (FLAT)](../../../../TiTan%20Hyperion%20(FLAT).md) с роботом, графиком и FOMO-оффером `$275`.
+Рекламный креатив для TiTan Hyperion (FLAT) с роботом, графиком и FOMO-оффером `$275`.
 
 Файл актива:
 
@@ -83,5 +83,5 @@ $275 только до 01.09.
 
 - [FLAT - продажные формулировки](../%D0%9E%D1%84%D1%84%D0%B5%D1%80/FLAT%20-%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%BD%D1%8B%D0%B5%20%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8.md)
 - [FLAT - риски рекламных обещаний](../%D0%A0%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%20%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D1%8F/FLAT%20-%20%D1%80%D0%B8%D1%81%D0%BA%D0%B8%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%BD%D1%8B%D1%85%20%D0%BE%D0%B1%D0%B5%D1%89%D0%B0%D0%BD%D0%B8%D0%B9.md)
-- [TiTan Hyperion (FLAT)](../../../../TiTan%20Hyperion%20(FLAT).md)
+- TiTan Hyperion (FLAT)
 

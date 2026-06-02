@@ -66,3 +66,4 @@ URL ролика: https://www.youtube.com/watch?v=DDvbN7mTGj8.
 - Видео: https://www.youtube.com/watch?v=DDvbN7mTGj8.
 - Сырье: `video_raw_solidartrading_5_week_md.md`.
 - Дубль сырья: `video_raw_solidartrading_4week.md`.
+

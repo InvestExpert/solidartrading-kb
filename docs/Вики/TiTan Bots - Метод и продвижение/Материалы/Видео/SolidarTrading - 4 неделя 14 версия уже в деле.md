@@ -1,5 +1,6 @@
 ---
 type: material
+status: active
 created: 2026-05-28
 source: video_raw_solidartrading_4week 2.md; пользователь восстановил URL 2026-05-28
 material_type: video
@@ -23,6 +24,28 @@ sections:
 ---
 
 # SolidarTrading - 4 неделя 14 версия уже в деле
+
+## На какие вопросы отвечает
+
+- [Это пирамида или доверительное управление?](../../FAQ/01_%D0%A7%D1%82%D0%BE%20%D1%82%D0%B0%D0%BA%D0%BE%D0%B5%20SolidarTrading%20%D0%B8%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%B8%D1%8F.md#Это%20пирамида%20или%20доверительное%20управление?)
+- [Почему 4-я неделя дала мало?](../../FAQ/04_%D0%94%D0%BE%D1%85%D0%BE%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D1%81%D0%B8%D0%B8%20%D0%B8%20%D0%B4%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0.md#Почему%204-я%20неделя%20дала%20мало?)
+- [Что значит первая передача и 4-ступенчатая защита?](../../FAQ/08_%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B8%20%D0%B8%20%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F.md#Что%20значит%20первая%20передача%20и%204-ступенчатая%20защита?)
+- [Почему старт с Forex, а не с крипты?](../../FAQ/09_%D0%9A%D1%80%D0%B8%D0%BF%D1%82%D0%B0%20%D0%B8%20%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F.md#Почему%20старт%20с%20Forex,%20а%20не%20с%20крипты?)
+
+## Используемые канонические знания
+
+- [Почему SolidarTrading начал с Forex а не с крипты](../../%D0%92%D0%BE%D0%B7%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%9F%D0%BE%D1%87%D0%B5%D0%BC%D1%83%20SolidarTrading%20%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%20%D1%81%20Forex%20%D0%B0%20%D0%BD%D0%B5%20%D1%81%20%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D1%8B.md)
+- [Почему SolidarTrading не пирамида и не ДУ](../../%D0%92%D0%BE%D0%B7%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%9F%D0%BE%D1%87%D0%B5%D0%BC%D1%83%20SolidarTrading%20%D0%BD%D0%B5%20%D0%BF%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0%20%D0%B8%20%D0%BD%D0%B5%20%D0%94%D0%A3.md)
+- [SolidarTrading - 4 неделя обновленного метода - 14 версия уже в деле](../../%D0%9A%D0%B5%D0%B9%D1%81%D1%8B%20%D0%B8%20%D0%B4%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0/SolidarTrading%20-%204%20%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F%20%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B0%20-%2014%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%20%D1%83%D0%B6%D0%B5%20%D0%B2%20%D0%B4%D0%B5%D0%BB%D0%B5.md)
+- [SolidarTrading - рестарт после сбоя и безопасный режим](../../%D0%9C%D0%B5%D1%82%D0%BE%D0%B4/SolidarTrading%20-%20%D1%80%D0%B5%D1%81%D1%82%D0%B0%D1%80%D1%82%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%20%D1%81%D0%B1%D0%BE%D1%8F%20%D0%B8%20%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D1%8B%D0%B9%20%D1%80%D0%B5%D0%B6%D0%B8%D0%BC.md)
+
+## Связанный FAQ-хаб
+
+- [01_Что такое SolidarTrading и модель участия](../../FAQ/01_%D0%A7%D1%82%D0%BE%20%D1%82%D0%B0%D0%BA%D0%BE%D0%B5%20SolidarTrading%20%D0%B8%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%B8%D1%8F.md)
+- [04_Доходность комиссии и доказательства](../../FAQ/04_%D0%94%D0%BE%D1%85%D0%BE%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D1%81%D0%B8%D0%B8%20%D0%B8%20%D0%B4%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0.md)
+- [08_История проекта версии и изменения](../../FAQ/08_%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B8%20%D0%B8%20%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F.md)
+- [09_Крипта и будущие направления](../../FAQ/09_%D0%9A%D1%80%D0%B8%D0%BF%D1%82%D0%B0%20%D0%B8%20%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F.md)
+
 
 ## Что это
 
@@ -63,7 +86,7 @@ URL: https://youtu.be/YJK7dWLJ9Fk
 - [SolidarTrading - карта вопросов](../../FAQ/SolidarTrading%20-%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2.md)
 - [SolidarTrading - банк сильных формулировок](../../%D0%9A%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82/SolidarTrading%20-%20%D0%B1%D0%B0%D0%BD%D0%BA%20%D1%81%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%BA.md)
 - [SolidarTrading - рискованные обещания в презентации](../../%D0%A0%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%20%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D1%8F/SolidarTrading%20-%20%D1%80%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%89%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B2%20%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8.md)
-- [Крипто-версия с отдельной логикой риска](../../../../../%D0%9A%D1%80%D0%B8%D0%BF%D1%82%D0%BE-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%20%D1%81%20%D0%BE%D1%82%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9%20%D0%BB%D0%BE%D0%B3%D0%B8%D0%BA%D0%BE%D0%B9%20%D1%80%D0%B8%D1%81%D0%BA%D0%B0.md)
+- Внутреннее направление без wiki-ссылки из промо-слоя: крипто-версия с отдельной логикой риска.
 
 ## Связанные материалы
 
@@ -71,3 +94,5 @@ URL: https://youtu.be/YJK7dWLJ9Fk
 - [5-й неделе](./SolidarTrading%20-%205%20%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F%20%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B8%20-%20%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%BD%D0%BE%20%D1%81%D1%82%D0%B0%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE.md)
 - [SolidarTrading - старт бота в безопасном режиме](./SolidarTrading%20-%20%D1%81%D1%82%D0%B0%D1%80%D1%82%20%D0%B1%D0%BE%D1%82%D0%B0%20%D0%B2%20%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D0%BC%20%D1%80%D0%B5%D0%B6%D0%B8%D0%BC%D0%B5.md)
 - [SolidarTrading - ответы на неудобные вопросы](./SolidarTrading%20-%20%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%8B%20%D0%BD%D0%B0%20%D0%BD%D0%B5%D1%83%D0%B4%D0%BE%D0%B1%D0%BD%D1%8B%D0%B5%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B.md)
+
+

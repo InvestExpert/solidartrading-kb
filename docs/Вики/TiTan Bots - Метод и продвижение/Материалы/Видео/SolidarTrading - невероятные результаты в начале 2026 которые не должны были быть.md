@@ -63,3 +63,4 @@ URL: https://youtu.be/dDrk9pjLzjk.
 
 - [SolidarTrading - финал 2025 - подарок тем кто думает о 2026](./SolidarTrading%20-%20%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%202025%20-%20%D0%BF%D0%BE%D0%B4%D0%B0%D1%80%D0%BE%D0%BA%20%D1%82%D0%B5%D0%BC%20%D0%BA%D1%82%D0%BE%20%D0%B4%D1%83%D0%BC%D0%B0%D0%B5%D1%82%20%D0%BE%202026.md)
 - [SolidarTrading - роботы готовят подарок 50 процентов прибыли под Новый год](./SolidarTrading%20-%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D1%8B%20%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D1%8F%D1%82%20%D0%BF%D0%BE%D0%B4%D0%B0%D1%80%D0%BE%D0%BA%2050%20%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%BF%D1%80%D0%B8%D0%B1%D1%8B%D0%BB%D0%B8%20%D0%BF%D0%BE%D0%B4%20%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%B3%D0%BE%D0%B4.md)
+

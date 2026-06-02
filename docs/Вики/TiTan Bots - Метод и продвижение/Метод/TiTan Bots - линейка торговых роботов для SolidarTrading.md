@@ -16,9 +16,21 @@ sections:
 
 # TiTan Bots - линейка торговых роботов для SolidarTrading
 
+## На какие вопросы отвечает
+
+- [Какие роботы есть в TiTan Bots?](../FAQ/06_%D0%A0%D0%BE%D0%B1%D0%BE%D1%82%D1%8B%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D1%80%D0%B5%D0%B9%D0%B4%D0%B8%D0%BD%D0%B3%20%D0%B8%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4.md#Какие%20роботы%20есть%20в%20TiTan%20Bots?)
+- [Чем TiTan Bots отличается от одного торгового робота?](../FAQ/06_%D0%A0%D0%BE%D0%B1%D0%BE%D1%82%D1%8B%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D1%80%D0%B5%D0%B9%D0%B4%D0%B8%D0%BD%D0%B3%20%D0%B8%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4.md#Чем%20TiTan%20Bots%20отличается%20от%20одного%20торгового%20робота?)
+- [Можно ли купить робота или продукт?](../FAQ/10_%D0%A6%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F%20%D0%B0%D1%83%D0%B4%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%B8%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D1%8B%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%B8%D1%8F.md#Можно%20ли%20купить%20робота%20или%20продукт?)
+
+## Связанный FAQ-хаб
+
+- [06_Роботы копитрейдинг и метод](../FAQ/06_%D0%A0%D0%BE%D0%B1%D0%BE%D1%82%D1%8B%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D1%80%D0%B5%D0%B9%D0%B4%D0%B8%D0%BD%D0%B3%20%D0%B8%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4.md)
+- [10_Целевая аудитория и форматы участия](../FAQ/10_%D0%A6%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F%20%D0%B0%D1%83%D0%B4%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%B8%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D1%8B%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%B8%D1%8F.md)
+
+
 ## Короткий ответ
 
-TiTan Bots - это не один случайный робот, а линейка торговых систем. Для текущего публичного направления SolidarTrading основной робот - [TiTan ATLAS](../../../../TiTan%20Atlas%20(BA).md).
+TiTan Bots - это не один случайный робот, а линейка торговых систем. Для текущего публичного направления SolidarTrading основной робот - TiTan ATLAS.
 
 Продажная формулировка:
 
@@ -28,7 +40,7 @@ TiTan Bots - это не один случайный робот, а линейк
 
 ## Что база знает
 
-- В технической базе уже есть отдельные страницы по [TiTan ATLAS](../../../../TiTan%20Atlas%20(BA).md), [TiTan HYPERION](../../../../TiTan%20Hyperion%20(FLAT).md), [TiTan HELIOS](../../../../TiTan%20Helios%20(Bollinger%20ADX).md) и [TiTan KRONOS](../../../../TiTan%20Kronos%20(CE).md).
+- В технической базе уже есть отдельные страницы по TiTan ATLAS, TiTan HYPERION, TiTan HELIOS и TiTan KRONOS, но из промо-слоя они не линкуются.
 - Для клиента не нужно начинать с внутренней архитектуры и кода.
 - В публичном SolidarTrading сейчас фокус на ATLAS.
 - Остальные роботы можно описывать как более широкую линейку TiTan Bots, которая будет развиваться постепенно.
@@ -71,11 +83,11 @@ TiTan Bots - это не один случайный робот, а линейк
 
 ## Где упоминается
 
-- [TiTan ATLAS](../../../../TiTan%20Atlas%20(BA).md)
-- [TiTan HYPERION](../../../../TiTan%20Hyperion%20(FLAT).md)
-- [TiTan HELIOS](../../../../TiTan%20Helios%20(Bollinger%20ADX).md)
-- [TiTan KRONOS](../../../../TiTan%20Kronos%20(CE).md)
-- [Имена титанов ботов](../../../../%D0%98%D0%BC%D0%B5%D0%BD%D0%B0%20%D1%82%D0%B8%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%B1%D0%BE%D1%82%D0%BE%D0%B2.md)
+- TiTan Atlas (BA)
+- TiTan Hyperion (FLAT)
+- TiTan Helios (Bollinger ADX)
+- TiTan Kronos (CE)
+- Имена титанов ботов
 - [SolidarTrading - базовый оффер](../%D0%9E%D1%84%D1%84%D0%B5%D1%80/SolidarTrading%20-%20%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BE%D1%84%D1%84%D0%B5%D1%80.md)
 - [SolidarTrading - долгосрочный метод заработка](./SolidarTrading%20-%20%D0%B4%D0%BE%D0%BB%D0%B3%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%20%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0.md)
 
@@ -83,3 +95,4 @@ TiTan Bots - это не один случайный робот, а линейк
 
 - [SolidarTrading - полная презентация долгосрочный метод заработка](../%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/SolidarTrading%20-%20%D0%BF%D0%BE%D0%BB%D0%BD%D0%B0%D1%8F%20%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B4%D0%BE%D0%BB%D0%B3%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%20%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0.md)
 - [TiTan ATLAS v18 - доказательства и результаты](../%D0%9A%D0%B5%D0%B9%D1%81%D1%8B%20%D0%B8%20%D0%B4%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0/TiTan%20ATLAS%20v18%20-%20%D0%B4%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0%20%D0%B8%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B.md)
+
