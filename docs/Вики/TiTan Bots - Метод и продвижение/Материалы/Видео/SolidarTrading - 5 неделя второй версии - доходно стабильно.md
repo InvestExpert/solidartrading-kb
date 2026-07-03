@@ -21,6 +21,10 @@ sections:
 
 # SolidarTrading - 5 неделя второй версии - доходно стабильно
 
+## RAG-контекст
+
+Эта карточка - risk-boundary по теме "SolidarTrading - 5 неделя второй версии - доходно стабильно". RAG должен сохранять ограничения и не превращать рискованные формулировки в доказанное обещание.
+
 ## Что это
 
 Видео-отчет **"🤖SolidarTrading. 5 неделя. 📈 Доходно. Стабильно. - YouTube"**.
@@ -66,4 +70,3 @@ URL ролика: https://www.youtube.com/watch?v=DDvbN7mTGj8.
 - Видео: https://www.youtube.com/watch?v=DDvbN7mTGj8.
 - Сырье: `video_raw_solidartrading_5_week_md.md`.
 - Дубль сырья: `video_raw_solidartrading_4week.md`.
-
