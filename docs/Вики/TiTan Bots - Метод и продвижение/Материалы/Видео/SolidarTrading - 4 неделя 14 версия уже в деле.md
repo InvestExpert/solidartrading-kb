@@ -1,6 +1,5 @@
 ---
 type: material
-status: active
 created: 2026-05-28
 source: video_raw_solidartrading_4week 2.md; пользователь восстановил URL 2026-05-28
 material_type: video
@@ -24,6 +23,10 @@ sections:
 ---
 
 # SolidarTrading - 4 неделя 14 версия уже в деле
+
+## RAG-контекст
+
+Эта карточка - risk-boundary по теме "SolidarTrading - 4 неделя 14 версия уже в деле". RAG должен сохранять ограничения и не превращать рискованные формулировки в доказанное обещание.
 
 ## На какие вопросы отвечает
 
@@ -94,5 +97,3 @@ URL: https://youtu.be/YJK7dWLJ9Fk
 - [5-й неделе](./SolidarTrading%20-%205%20%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F%20%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B8%20-%20%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%BD%D0%BE%20%D1%81%D1%82%D0%B0%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE.md)
 - [SolidarTrading - старт бота в безопасном режиме](./SolidarTrading%20-%20%D1%81%D1%82%D0%B0%D1%80%D1%82%20%D0%B1%D0%BE%D1%82%D0%B0%20%D0%B2%20%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D0%BC%20%D1%80%D0%B5%D0%B6%D0%B8%D0%BC%D0%B5.md)
 - [SolidarTrading - ответы на неудобные вопросы](./SolidarTrading%20-%20%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%8B%20%D0%BD%D0%B0%20%D0%BD%D0%B5%D1%83%D0%B4%D0%BE%D0%B1%D0%BD%D1%8B%D0%B5%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B.md)
-
-
