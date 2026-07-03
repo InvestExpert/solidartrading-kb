@@ -1,7 +1,9 @@
 ---
 type: risk
-status: active
+faq_route_role: context_support
+use: context
 source: 2026-05-21 - ChatGPT - FLAT reconnect architecture and marketing.md
+source_status: accepted
 applies_to:
   - TiTan Hyperion (FLAT)
   - FLAT
@@ -12,6 +14,16 @@ section:
 ---
 
 # FLAT - риски рекламных обещаний
+
+## FAQ-route
+
+FAQ-вход использовать как context/support risk-boundary для FLAT-материалов и creative drafts; не извлекать risky claims как самостоятельный публичный факт.
+
+## RAG-контекст
+
+Эта карточка - риск-граница для рекламных формулировок TiTan Hyperion (FLAT), а не готовый клиентский оффер.
+
+RAG должен использовать ее только вместе с конкретным FLAT-материалом или creative draft. Нельзя выдавать risky claims как факт без доказательства, даты, условий и дисклеймера.
 
 ## Суть
 
