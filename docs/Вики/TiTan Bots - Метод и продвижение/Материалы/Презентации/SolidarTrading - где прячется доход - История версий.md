@@ -1,6 +1,5 @@
 ---
 type: version_history
-status: active
 source: SolidarTrading - где прячется доход
 created: 2026-05-22
 applies_to:
@@ -12,6 +11,14 @@ sections:
 ---
 
 # SolidarTrading - где прячется доход - История версий
+
+## RAG-контекст
+
+Эта карточка - история версий материала, а не публичный answer owner.
+
+Смысловой канон: [SolidarTrading - подход где прячется доход](../../%D0%9C%D0%B5%D1%82%D0%BE%D0%B4/SolidarTrading%20-%20%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4%20%D0%B3%D0%B4%D0%B5%20%D0%BF%D1%80%D1%8F%D1%87%D0%B5%D1%82%D1%81%D1%8F%20%D0%B4%D0%BE%D1%85%D0%BE%D0%B4.md). Материал презентации: [SolidarTrading - где прячется доход](./SolidarTrading%20-%20%D0%B3%D0%B4%D0%B5%20%D0%BF%D1%80%D1%8F%D1%87%D0%B5%D1%82%D1%81%D1%8F%20%D0%B4%D0%BE%D1%85%D0%BE%D0%B4.md).
+
+RAG должен использовать эту страницу только для проверки версии, даты, статуса и связи пакета.
 
 ## Правило
 
