@@ -1,7 +1,10 @@
 ---
 type: offer
 status: needs_review
+faq_route_role: context_support
+use: context
 source: 2026-05-21 - ChatGPT - FLAT reconnect architecture and marketing.md
+source_status: accepted
 applies_to:
   - TiTan Hyperion (FLAT)
   - FLAT
@@ -12,6 +15,14 @@ section:
 ---
 
 # FLAT - продажные формулировки
+
+## RAG-контекст
+
+Эта карточка - risk-boundary по теме "FLAT - продажные формулировки". RAG должен сохранять ограничения и не превращать рискованные формулировки в доказанное обещание.
+
+## FAQ-route
+
+FAQ-вход использовать только как context/support для FLAT-материалов; не делать карточку самостоятельным публичным answer-owner без утвержденного FLAT-хаба.
 
 ## Суть
 
