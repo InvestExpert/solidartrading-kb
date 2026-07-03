@@ -1,6 +1,7 @@
 ---
 type: material
 status: draft
+use: context
 created: 2026-05-29
 source: 2026-05-21 - TiTan Bots Pitch.md
 material_type: presentation_structure
@@ -18,6 +19,10 @@ sections:
 ---
 
 # TiTan Bots - структура продуктовой презентации
+
+## RAG-контекст
+
+Эта карточка - risk-boundary по теме "TiTan Bots - структура продуктовой презентации". RAG должен сохранять ограничения и не превращать рискованные формулировки в доказанное обещание.
 
 ## Что это
 
