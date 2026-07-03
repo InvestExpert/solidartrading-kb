@@ -1,6 +1,5 @@
 ---
 type: presentation
-status: active
 source: SolidarTrading. 1 ДолГосрочный метод заработка.pdf
 created: 2026-05-22
 current_version: v1
@@ -20,6 +19,14 @@ sections:
 ---
 
 # SolidarTrading - полная презентация долгосрочный метод заработка
+
+## RAG-контекст
+
+Эта карточка - канонический материал полной презентации долгосрочного метода.
+
+Краткая версия: [SolidarTrading - презентация долгосрочный метод заработка](./SolidarTrading%20-%20%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B4%D0%BE%D0%BB%D0%B3%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%20%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0.md). История версий полной линии: [история версий полной презентации](./SolidarTrading%20-%20%D0%BF%D0%BE%D0%BB%D0%BD%D0%B0%D1%8F%20%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B4%D0%BE%D0%BB%D0%B3%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%20%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20-%20%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B9.md).
+
+RAG должен использовать эту карточку как презентационный пакет для встречи/вебинара, но не как единственный владелец фактов по рискам, комиссии, доказательствам или юридическим вопросам.
 
 ## Суть
 
@@ -95,11 +102,11 @@ https://drive.google.com/file/d/1vX4BxHzmqgOaE-sIMpshwW8ZRVlRSZmv/view?usp=shari
 
 ## История
 
-- [SolidarTrading - полная презентация долгосрочный метод заработка - История версий](./SolidarTrading%20-%20%D0%BF%D0%BE%D0%BB%D0%BD%D0%B0%D1%8F%20%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B4%D0%BE%D0%BB%D0%B3%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%20%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20-%20%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B9.md)
+- [история версий полной презентации](./SolidarTrading%20-%20%D0%BF%D0%BE%D0%BB%D0%BD%D0%B0%D1%8F%20%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B4%D0%BE%D0%BB%D0%B3%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%20%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20-%20%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B9.md)
 
 ## Связи
 
-- [краткая презентация](./SolidarTrading%20-%20%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B4%D0%BE%D0%BB%D0%B3%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%20%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0.md)
+- [SolidarTrading - презентация долгосрочный метод заработка](./SolidarTrading%20-%20%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B4%D0%BE%D0%BB%D0%B3%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%20%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0.md)
 - [Структура продающей презентации](./%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D1%8E%D1%89%D0%B5%D0%B9%20%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8.md)
 - [SolidarTrading - долгосрочный метод заработка](../../%D0%9C%D0%B5%D1%82%D0%BE%D0%B4/SolidarTrading%20-%20%D0%B4%D0%BE%D0%BB%D0%B3%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%20%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0.md)
 - [SolidarTrading - базовый оффер](../../%D0%9E%D1%84%D1%84%D0%B5%D1%80/SolidarTrading%20-%20%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BE%D1%84%D1%84%D0%B5%D1%80.md)

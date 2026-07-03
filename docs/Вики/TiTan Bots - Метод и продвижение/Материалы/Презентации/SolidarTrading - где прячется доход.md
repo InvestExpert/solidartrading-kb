@@ -1,6 +1,5 @@
 ---
 type: presentation
-status: active
 source: SolidarTrading - Где прячеться доход_.pdf
 created: 2026-05-22
 current_version: v1
@@ -18,6 +17,14 @@ sections:
 ---
 
 # SolidarTrading - где прячется доход
+
+## RAG-контекст
+
+Эта карточка - материал презентации, а не канонический смысловой ответ.
+
+Смысловой канон: [SolidarTrading - подход где прячется доход](../../%D0%9C%D0%B5%D1%82%D0%BE%D0%B4/SolidarTrading%20-%20%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4%20%D0%B3%D0%B4%D0%B5%20%D0%BF%D1%80%D1%8F%D1%87%D0%B5%D1%82%D1%81%D1%8F%20%D0%B4%D0%BE%D1%85%D0%BE%D0%B4.md). История версий: [SolidarTrading - где прячется доход - История версий](./SolidarTrading%20-%20%D0%B3%D0%B4%D0%B5%20%D0%BF%D1%80%D1%8F%D1%87%D0%B5%D1%82%D1%81%D1%8F%20%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%20-%20%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B9.md).
+
+RAG должен использовать эту карточку как supporting material: слайды, подача, источник, но не как единственный ответ пользователю.
 
 ## Суть
 

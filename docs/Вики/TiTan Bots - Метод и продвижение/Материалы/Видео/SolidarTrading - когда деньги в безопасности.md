@@ -21,6 +21,10 @@ sections:
 
 # SolidarTrading - когда деньги в безопасности
 
+## RAG-контекст
+
+Эта карточка - risk-boundary по теме "SolidarTrading - когда деньги в безопасности". RAG должен сохранять ограничения и не превращать рискованные формулировки в доказанное обещание.
+
 ## Что это
 
 Раннее видео первой версии SolidarTrading про 10-ю неделю тестирования и тему безопасности денег.
@@ -52,7 +56,7 @@ URL: https://youtu.be/xEgj2dOPiIw
 - [SolidarTrading - защита депозита и стоимость безопасности](../../%D0%9C%D0%B5%D1%82%D0%BE%D0%B4/SolidarTrading%20-%20%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0%20%D0%B4%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%B0%20%D0%B8%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C%20%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.md)
 - [SolidarTrading - сложный процент и автодолив](../../%D0%9C%D0%B5%D1%82%D0%BE%D0%B4/SolidarTrading%20-%20%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D0%BD%D1%82%20%D0%B8%20%D0%B0%D0%B2%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%B8%D0%B2.md)
 - [SolidarTrading - базовый оффер](../../%D0%9E%D1%84%D1%84%D0%B5%D1%80/SolidarTrading%20-%20%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BE%D1%84%D1%84%D0%B5%D1%80.md)
-- [SolidarTrading - первая версия - первые отчеты](../../%D0%9A%D0%B5%D0%B9%D1%81%D1%8B%20%D0%B8%20%D0%B4%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0/SolidarTrading%20-%20%D0%BF%D0%B5%D1%80%D0%B2%D0%B0%D1%8F%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%20-%20%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B5%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%D1%8B.md)
+- Исторический внутренний контекст: `SolidarTrading - первая версия - первые отчеты`.
 - [SolidarTrading - банк сильных формулировок](../../%D0%9A%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82/SolidarTrading%20-%20%D0%B1%D0%B0%D0%BD%D0%BA%20%D1%81%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%BA.md)
 - [SolidarTrading - карта вопросов](../../FAQ/SolidarTrading%20-%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2.md)
 - [SolidarTrading - рискованные обещания в презентации](../../%D0%A0%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%20%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D1%8F/SolidarTrading%20-%20%D1%80%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%89%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B2%20%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8.md)
@@ -63,4 +67,3 @@ URL: https://youtu.be/xEgj2dOPiIw
 - [SolidarTrading - о чем мечтает каждый трейдер](./SolidarTrading%20-%20%D0%BE%20%D1%87%D0%B5%D0%BC%20%D0%BC%D0%B5%D1%87%D1%82%D0%B0%D0%B5%D1%82%20%D0%BA%D0%B0%D0%B6%D0%B4%D1%8B%D0%B9%20%D1%82%D1%80%D0%B5%D0%B9%D0%B4%D0%B5%D1%80.md)
 - [SolidarTrading - роботы превращают 50 процентов в 3504 процента в месяц](./SolidarTrading%20-%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D1%8B%20%D0%BF%D1%80%D0%B5%D0%B2%D1%80%D0%B0%D1%89%D0%B0%D1%8E%D1%82%2050%20%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%B2%203504%20%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D0%BD%D1%82%D0%B0%20%D0%B2%20%D0%BC%D0%B5%D1%81%D1%8F%D1%86.md)
 - [SolidarTrading - ранний тестовый этап и переход к обновленному методу](../../%D0%A0%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%20%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D1%8F/SolidarTrading%20-%20%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%B9%20%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B9%20%D1%8D%D1%82%D0%B0%D0%BF%20%D0%B8%20%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4%20%D0%BA%20%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%BC%D1%83%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%83.md)
-

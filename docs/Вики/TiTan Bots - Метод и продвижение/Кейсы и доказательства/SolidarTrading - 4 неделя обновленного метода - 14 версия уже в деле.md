@@ -1,7 +1,11 @@
 ---
 type: proof_case
 status: needs_verification
+proof_status: historical_context
+use: context
+proof_owner: TiTan ATLAS v18 - доказательства и результаты
 source: https://youtu.be/YJK7dWLJ9Fk; video_raw_solidartrading_4week 2.md
+source_status: accepted
 created: 2026-05-28
 applies_to:
   - SolidarTrading
@@ -30,6 +34,11 @@ sections:
 - [04_Доходность комиссии и доказательства](../FAQ/04_%D0%94%D0%BE%D1%85%D0%BE%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D1%81%D0%B8%D0%B8%20%D0%B8%20%D0%B4%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0.md)
 - [08_История проекта версии и изменения](../FAQ/08_%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B8%20%D0%B8%20%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F.md)
 
+## RAG-контекст
+
+Эта карточка - historical/supporting report по 4-й неделе обновленного метода, а не current proof текущей доходности или текущих параметров `v14`.
+
+RAG может использовать ее для объяснения safe mode, почему слабая неделя не равна провалу, и почему результат нужно читать вместе с просадкой. Нельзя использовать `0.3%`, `8.57`, `10%` просадки, `v14` или crypto spot test как текущий подтвержденный результат. Для актуальных доказательств использовать [TiTan ATLAS v18 - доказательства и результаты](./TiTan%20ATLAS%20v18%20-%20%D0%B4%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0%20%D0%B8%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B.md).
 
 ## Суть для ответов клиенту
 
@@ -116,4 +125,3 @@ sections:
 - [SolidarTrading - защита депозита и стоимость безопасности](../%D0%9C%D0%B5%D1%82%D0%BE%D0%B4/SolidarTrading%20-%20%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0%20%D0%B4%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%B0%20%D0%B8%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C%20%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.md)
 - [Почему SolidarTrading не пирамида и не ДУ](../%D0%92%D0%BE%D0%B7%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%9F%D0%BE%D1%87%D0%B5%D0%BC%D1%83%20SolidarTrading%20%D0%BD%D0%B5%20%D0%BF%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0%20%D0%B8%20%D0%BD%D0%B5%20%D0%94%D0%A3.md)
 - [SolidarTrading - банк сильных формулировок](../%D0%9A%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82/SolidarTrading%20-%20%D0%B1%D0%B0%D0%BD%D0%BA%20%D1%81%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%BA.md)
-

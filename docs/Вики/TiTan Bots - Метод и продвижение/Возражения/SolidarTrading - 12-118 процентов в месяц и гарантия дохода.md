@@ -2,6 +2,7 @@
 type: knowledge
 created: 2026-05-27
 source: https://youtu.be/JTQd_sfdD6U; video_raw_perviy_shag_12_v_mesyac.md; https://youtu.be/n7_kMo5e-oY; https://youtu.be/K6b2bHKkEpA; manual_raw_solidartrading_04_profit_commissions_proofs_full_2026-06-01.md
+source_status: accepted
 applies_to:
   - SolidarTrading
   - TiTan ATLAS
@@ -13,6 +14,10 @@ sections:
 ---
 
 # SolidarTrading - 12-118 процентов в месяц и гарантия дохода
+
+## RAG-контекст
+
+Эта карточка - risk-boundary по теме "SolidarTrading - 12-118 процентов в месяц и гарантия дохода". RAG должен сохранять ограничения и не превращать рискованные формулировки в доказанное обещание.
 
 ## На какие вопросы отвечает
 
@@ -120,4 +125,3 @@ sections:
 - [Почему SolidarTrading не продает робота напрямую](./%D0%9F%D0%BE%D1%87%D0%B5%D0%BC%D1%83%20SolidarTrading%20%D0%BD%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B5%D1%82%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B0%20%D0%BD%D0%B0%D0%BF%D1%80%D1%8F%D0%BC%D1%83%D1%8E.md)
 - [SolidarTrading - рискованные обещания в презентации](../%D0%A0%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%20%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D1%8F/SolidarTrading%20-%20%D1%80%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%89%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B2%20%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8.md)
 - [SolidarTrading - ранний тестовый этап и переход к обновленному методу](../%D0%A0%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%20%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D1%8F/SolidarTrading%20-%20%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%B9%20%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B9%20%D1%8D%D1%82%D0%B0%D0%BF%20%D0%B8%20%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4%20%D0%BA%20%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%BC%D1%83%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%83.md)
-

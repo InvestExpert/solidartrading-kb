@@ -1,6 +1,5 @@
 ---
 type: objection
-status: draft
 source: 2026-05-21 - ChatGPT - BingX MT5 Python среда крипто-бота.md
 created: 2026-05-21
 applies_to:
@@ -13,6 +12,12 @@ sections:
 ---
 
 # Если сетка висит месяцами profit share не работает
+
+## RAG-контекст
+
+Эта карточка - аккуратное возражение по profit share и долгому циклу сетки, а не самостоятельное правило комиссии.
+
+RAG должен использовать ее только с ограничением: регулярность profit share зависит от обновления equity high watermark и результатов тестов, особенно для crypto-направления.
 
 ## Возражение
 
@@ -37,6 +42,4 @@ Profit share зависит от обновления максимума equity.
 ## Связи
 
 - [ATLAS crypto - ограничения обещаний BingX и profit share](../%D0%A0%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%20%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D1%8F/ATLAS%20crypto%20-%20%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D0%B1%D0%B5%D1%89%D0%B0%D0%BD%D0%B8%D0%B9%20BingX%20%D0%B8%20profit%20share.md)
-- Внутренний технический контекст без wiki-ссылки из промо-слоя: ATLAS crypto - profit share подходит лучше если equity часто обновляет максимум.
-
-
+- Внутренний технический контекст без wiki-ссылки из промо-слоя: ATLAS Crypto - profit share подходит лучше если equity часто обновляет максимум.
