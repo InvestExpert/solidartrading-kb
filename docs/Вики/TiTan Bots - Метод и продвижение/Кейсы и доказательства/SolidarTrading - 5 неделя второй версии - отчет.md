@@ -1,7 +1,11 @@
 ---
 type: proof_case
 status: needs_verification
+proof_status: historical_context
+use: context
+proof_owner: TiTan ATLAS v18 - доказательства и результаты
 source: https://www.youtube.com/watch?v=DDvbN7mTGj8; video_raw_solidartrading_5_week_md.md
+source_status: accepted
 created: 2026-05-27
 applies_to:
   - SolidarTrading
@@ -15,6 +19,14 @@ sections:
 ---
 
 # SolidarTrading - 5 неделя второй версии - отчет
+
+## RAG-контекст
+
+Эта карточка - historical/supporting context по теме "SolidarTrading - 5 неделя второй версии - отчет". Использовать как пример или историю, но не как текущий proof, обещание доходности или гарантию результата.
+
+## FAQ-route
+
+Использовать только как historical/supporting report. Не использовать как текущий proof без отдельной проверки актуальности.
 
 ## Суть для ответов клиенту
 
